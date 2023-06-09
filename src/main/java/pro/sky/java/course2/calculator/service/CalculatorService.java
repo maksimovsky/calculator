@@ -1,6 +1,6 @@
-package pro.sky.java.course2.calculator;
+package pro.sky.java.course2.calculator.service;
 
-public interface Service {
+public interface CalculatorService {
 
     int plus(int num1, int num2);
     int minus(int num1, int num2);
